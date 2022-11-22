@@ -6,4 +6,6 @@ CSS pseudo classes were used to make the webpage interactive.
 
 A CSS animation was used to animate a rotating clock symbol.
 
+Through this project I practiced my advanced skill in HTML and CSS.
+
 ![Restaurant Home Page](https://user-images.githubusercontent.com/112181040/203383385-3e9cf95e-455c-419b-9332-2a68389e9119.png)
